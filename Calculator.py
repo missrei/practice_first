@@ -10,3 +10,6 @@ def multiply(a, b):
 
 def square(a,b):
   return a**b
+
+def module_test(a,b):
+  return a%b
